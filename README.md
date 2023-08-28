@@ -1,7 +1,7 @@
 # SCP-CB-Randomizer
 SCP: Containment Breach randomizer made in Python.
 
-Requires Python 3.11+
+Requires Python 3.11+ https://www.python.org/downloads/release/python-3115/
 
 Entirely made for fun
 
