@@ -7,7 +7,7 @@ Entirely made for fun
 
 Features GFX and SFX randomizer with auto backup
 
-    TODO: Add feature for custom user assets at some point, figure out why randomizing .png files crashes the game, loading screen and possible model randomization (latter probably not possible)
+    TODO: Add feature for custom user assets at some point, figure out why randomizing .png files crashes the game, loading screen and model randomization (latter probably not possible)
 
 Randomize twice or more for best results
 ![Screenshot](screenshot.png)
